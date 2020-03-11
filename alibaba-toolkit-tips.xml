@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectName="$USER_HOME$/Downloads/idcard/mu" firstStartUp="false" />
     <entry projectName="/Volumes/data/dev/frontend-projects/vue/vue-elementui/elementui-api" firstStartUp="false" />
     <entry projectName="/Volumes/data/dev/java-projects/better/better-boot" firstStartUp="false" />
     <entry projectName="/Volumes/data/dev/java-projects/cabin/mpos-demo" firstStartUp="false" />
