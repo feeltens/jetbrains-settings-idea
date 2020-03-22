@@ -3,6 +3,7 @@
     <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   </HTMLCodeStyleSettings>
   <JavaCodeStyleSettings>
+    <option name="BLANK_LINES_AROUND_INITIALIZER" value="0" />
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
     <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
