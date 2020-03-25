@@ -16,7 +16,7 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://192.168.20.52:8081" />
-          <option name="userName" value="liujx" />
+          <option name="userName" value="root" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://192.168.20.52:8081/root/health-education-master.git" />
