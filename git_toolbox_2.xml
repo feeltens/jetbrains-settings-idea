@@ -5,5 +5,6 @@
     <option name="blameInlineShowSubject" value="false" />
     <option name="blameStatusAuthorNameType" value="HIDDEN" />
     <option name="previousVersionMigrated" value="true" />
+    <option name="version" value="2" />
   </component>
 </application>
