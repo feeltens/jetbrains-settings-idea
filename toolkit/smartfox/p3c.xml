@@ -1,5 +1,6 @@
 <application>
   <component name="ToolkitP3cConfig">
+    <option name="analysisBeforeCheckin" value="true" />
     <option name="enableRealTimeMode" value="true" />
     <option name="locale" value="zh" />
   </component>
