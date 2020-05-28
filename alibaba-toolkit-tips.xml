@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectName="/Volumes/data/dev/java-projects/java-architecture/redis-demo" firstStartUp="false" />
     <entry projectName="/Volumes/data/work/projects/alipay-master" firstStartUp="false" />
     <entry projectName="/Volumes/data/work/projects/cold-chain-logistics-new" firstStartUp="false" />
     <entry projectName="/Volumes/data/work/projects/vap-service-master" firstStartUp="false" />
